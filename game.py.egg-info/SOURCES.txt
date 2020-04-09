@@ -1,0 +1,7 @@
+setup.py
+bin/game.py
+game.py.egg-info/PKG-INFO
+game.py.egg-info/SOURCES.txt
+game.py.egg-info/dependency_links.txt
+game.py.egg-info/requires.txt
+game.py.egg-info/top_level.txt
